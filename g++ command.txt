@@ -1,0 +1,1 @@
+g++ bouncingSquare.cpp -IC:\mingw_dev_lib\freeglut\include -LC:\mingw_dev_lib\freeglut\lib -w -Wl,-subsystem,windows -lOpenGL32 -lglu32 -lfreeGLUT -o bouncingSquare
