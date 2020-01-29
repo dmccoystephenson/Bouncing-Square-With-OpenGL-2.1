@@ -1,7 +1,9 @@
 #ifndef BOUNCINGSQUARE_H
 #define BOUNCINGSQUARE_H
 
-#include "OpenGL.h"
+#include <GL/freeglut.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
 #include <iostream>
 
 // screen constants
